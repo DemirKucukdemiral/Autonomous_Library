@@ -2,10 +2,10 @@ site_name: Autonomous Systems Handbook
 site_description: Documentation on Robotics, Control Theory and Autonomous Systems
 site_author: Demir Kucukdemiral
 
-site_url: https://demirkucukdemiral.github.io/autonomous-systems/
+site_url: https://demirkucukdemiral.github.io/Autonomous_Library/
 
-repo_url: https://github.com/demirkucukdemiral/autonomous-systems
-repo_name: demirkucukdemiral/autonomous-systems
+repo_url: https://github.com/demirkucukdemiral/Autonomous_Library
+repo_name: demirkucukdemiral/Autonomous_Library
 
 theme:
   name: material
